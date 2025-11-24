@@ -29,7 +29,7 @@ Proyecto completo de **Data Engineering** para limpieza, análisis exploratorio 
 - **Gabriela Alberico** - [GitHub](https://github.com/albericog) | Rama: `feature/gabriela_dev`
 - **Jorge Silva** - [GitHub](https://github.com/jsilvazuniga) | Rama: `feature/jorge_dev`
 - **Robert Tunzi** - [GitHub](https://github.com/rtunzi) | Rama: `feature/robert_dev`
-- **Matias Lannes** - [GitHub](https://github.com/) | Rama: `feature/matias_dev`
+- **Matias Lannes** - [GitHub](https://github.com/matilannes) | Rama: `feature/matias_dev`
 - **Alexis Labrador** - [GitHub](https://github.com/alexisnlh) | Rama: `feature/alexis_dev`
 
 ### Metodología de Trabajo
