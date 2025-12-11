@@ -1,0 +1,24 @@
+1. Se elimino la columna marca porque los modelos corresponden a la marca BWM igual que el resto del dataframe.
+
+2.1 Para la columna "fecha_registro", se completo con las media de la columna "fecha_venta" con respecto al modelo.
+
+2.2 Para la columna "color" se completo los valores nulos con la moda del color segun el modelo et aplicar technique OHE
+
+2.3 Para la columna "aire acondicionado",realisé una conversion a entero donde los valores nulos son -1, T : 1 y F : 0
+
+2.4 Para la columna "tipo_coche" los valores nulos se reemplazon con el valor 'vacio" y luego se us One hot Encoding
+
+2.5 Para la columnas : "volante_regulable", "camara_trasera", "asientos_traseros_plegables", "elevalunas_electrico", "gps", "alerta_lim_velocidad" ,realisé una conversion a entero donde los valores nulos son -1, T : 1 y F : 0
+
+2.6 Columna "tipo_gasolina" se encontro valores iguales son diferente escritura ejemplo Diesel y diesel se reemplazo y se aplico  OHE
+
+3. En la columna "KM", podemos encontrar que el 50% de vehiculos se encuentra a mas de 175,170 KM y el precio promedio de vehiculos es 15,831, la mayoria de vehiculos son Diesel
+
+4. Corelacion:
+
+5.  Análisis variable vs target, ¿Hay algún insight interesante
+
+6. las columnas booleanas fueron transformadas a numericas (null -1, T : 1 y F : 0)
+   la columna "tipo_coche" utilisé OHE
+   las columnas fechas fueron transformadas en numericas Ano, Mes, weekday
+
