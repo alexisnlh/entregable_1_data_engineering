@@ -76,7 +76,7 @@ entregable_1_data_engineering/
 └── notebooks_individuales/                 # Trabajo individual de cada miembro
     ├── gabriela_alberico.ipynb
     ├── jorge_silva.ipynb
-    ├── robert.ipynb
+    ├── roberto_tunzi.ipynb
     ├── matias_lannes.ipynb
     └── alexis_labrador.ipynb
 ```
