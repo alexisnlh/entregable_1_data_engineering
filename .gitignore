@@ -24,7 +24,7 @@ Thumbs.db
 desktop.ini
 
 # Data - Ignorar archivos temporales en processed
-data/processed/*
+data/processed/*_temp.xlsx
 
 # Pero SÍ versionar el resultado final
 !data/processed/bmw_pricing_cleaned.csv
